@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aidanjarmadillo
+ *
+ */
+module GoFish {
+}
